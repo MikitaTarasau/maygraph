@@ -1,13 +1,13 @@
 {
-  "name": "maygraph",
+  "name": "baser-stvol",
   "license": "UNLICENSED",
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
-    "deploy": "graph deploy --node https://api.studio.thegraph.com/deploy/ maygraph",
-    "create-local": "graph create --node http://localhost:8020/ maygraph",
-    "remove-local": "graph remove --node http://localhost:8020/ maygraph",
-    "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 maygraph",
+    "deploy": "graph deploy --node https://api.studio.thegraph.com/deploy/ baser-stvol",
+    "create-local": "graph create --node http://localhost:8020/ baser-stvol",
+    "remove-local": "graph remove --node http://localhost:8020/ baser-stvol",
+    "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 baser-stvol",
     "test": "graph test"
   },
   "dependencies": {

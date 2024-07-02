@@ -1,8 +1,8 @@
 {
-  "mainnet": {
-    "Uni": {
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "startBlock": 10861674
+  "base": {
+    "UsdcContract": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "startBlock": 0
     }
   }
 }
